@@ -1,0 +1,1 @@
+So far I have learned what data structures are and some examples like linked list, binary tree, and graph.  Also, I have learned about algorithms, np-complete algorithms, and abstract data types including list, dynamic array, stack, queue, and how they have common underlying data structures.
